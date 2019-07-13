@@ -42,6 +42,10 @@ body {
 
 /*Denna sektionen sköter utseendet för mobiler*/
 @media screen and (max-width: 649px) {
+    .lead {
+        font-size: 1.2rem;
+    }
+
     .toggler {
         position: absolute;
         top: 0;
