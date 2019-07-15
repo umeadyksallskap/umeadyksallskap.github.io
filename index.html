@@ -14,19 +14,21 @@
             document.getElementById("toggler").checked=false;
             }
     </script>
-    <input type="checkbox" class="toggler" id="toggler">
-    <nav class="navbar">
-        <ul>
-            <li><a href="#hem" onclick="uncheck()">Hem</a></li>
-            <li><a href="#omoss" onclick="uncheck()">Om sällskapet</a></li>
-            <li><a href="#blimedlem" onclick="uncheck()">Bli medlem</a></li>
-            <li><a href="#utbildning" onclick="uncheck()">Utbildning</a></li>
-            <li><a href="#kontakta" onclick="uncheck()">Kontakta oss</a></li>
-        </ul>
-    </nav>
-    <label for="toggler" class="hamburger">
-        <div></div>
-    </label>
+    <div class="menu">
+        <input type="checkbox" class="toggler" id="toggler">
+        <label for="toggler" class="hamburger">
+            <div></div>
+        </label>
+        <nav class="navbar">
+            <ul>
+                <li><a href="#hem" onclick="uncheck()">Hem</a></li>
+                <li><a href="#omoss" onclick="uncheck()">Om sällskapet</a></li>
+                <li><a href="#blimedlem" onclick="uncheck()">Bli medlem</a></li>
+                <li><a href="#utbildning" onclick="uncheck()">Utbildning</a></li>
+                <li><a href="#kontakta" onclick="uncheck()">Kontakta oss</a></li>
+            </ul>
+        </nav>
+    </div>
 </header>
 <body>
     <div class="container">

@@ -52,24 +52,31 @@ body {
     position: absolute;
     top: 0;
     left: 0;
+    z-index: 99;
     margin-left: 1em;
     height: 100%;
     display: flex;
     align-items: center;
 }
-.hamburger div,
-.hamburger div::before,
-.hamburger div::after {
-    display: block;
+.hamburger > div {
+    flex: none;
+    display: flex;
+    align-items: center;
     background: white;
     height: 2px;
     width: 2em;
     position: relative;
+    transition: all 0.4s ease;
 }
 .hamburger div::before,
 .hamburger div::after {
     content: '';
     position: absolute;
+    z-index: 99;
+    background: inherit;
+    height: 2px;
+    width: 2em;
+    
 }
 .hamburger div::before {
     bottom: 10px;
@@ -109,9 +116,20 @@ nav a {
 .toggler:checked ~ nav {
     transform: scale(1,1);
 }
-.nav-toggle:checked ~ nav a {
+.togler:checked ~ nav a {
     opacity: 1;
     transition: opacity 250ms ease-in-out 250ms;
+}
+.toggler:checked + 
+.hamburger > div {
+    transform: rotate(135deg);
+}
+.toggler:checked + 
+.hamburger > div::before,
+.toggler:checked + 
+.hamburger > div::after {
+    top: 0;
+    transform: rotate(90deg);
 }
 
 body {
