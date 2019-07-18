@@ -198,7 +198,7 @@ section p a {
         margin-top: 1em;
     }
     section p {
-        width: 70vw;
+        max-width: 30em;
     }
 }
 
