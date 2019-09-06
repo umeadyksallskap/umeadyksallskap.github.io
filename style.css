@@ -5,7 +5,7 @@
 
 :root {
     --primary-color: rgba(13, 110, 139, 0.75);
-    --overlay-color: rgba(24, 39, 51, 0.85);
+    --overlay-color: rgba(0, 0, 0, 0.65);
     --menu-color: rgba(0, 0, 0, 0.7);
     --menu-speed: 0.75s;
 }
@@ -21,7 +21,7 @@ header {
 body {
     font-family: Arial, Helvetica, sans-serif;
     background: #333;
-    color: #fff;
+    color: #f4f4f4;
     height: 100vh;
     line-height: 1.6;
     overflow-y: auto;
@@ -167,17 +167,26 @@ section h3{
     font-size: 1.5em;
     margin-top: 2em;
 }
+section h4{
+    margin-top: 2em;
+}
 section p {
     font-size: 1em;
     margin: 0 1em;
     padding: 1em;
     justify-content: center;
-    color: #f4f4f4;
 }
 section p a {
     font-size: 1em;
     color: #f4f4f4;
 }
+.overlay {
+    position: relative;
+    max-width: 50em;
+    min-height: 100vh;
+    background-color: var(--overlay-color);
+}
+
 
 /*Denna sektionen sköter utseendet för mobiler*/
 @media screen and (max-width: 649px) {
@@ -229,22 +238,26 @@ section p a {
     nav a:hover {
         color: var(--primary-color)
     }
-    section div {
+    section div.gdpr {
         position:absolute;
-        top:100vh;
+        max-width: 50rem;
+        margin-right: 0;
+        top:90vh;
         transform:translateY(-100%);
     }
 }
 
     /* Section Images */
     section#hem {
-        background: url('https://images.unsplash.com/photo-1561983818-e339e248ac5c') no-repeat center center/cover;
+        /* background: url('https://images.unsplash.com/photo-1561983818-e339e248ac5c') no-repeat center center/cover; */
+        background: url('robur.jpg') center;
     }
     section#omoss {
         background: url('https://images.unsplash.com/photo-1536978514793-2ae19d485bf3') no-repeat center center/cover;
     }
     section#blimedlem {
-        background: url('https://images.unsplash.com/photo-1538936833128-5bbd46b83ad1') no-repeat center center/cover;
+        /* background: url('https://images.unsplash.com/photo-1538936833128-5bbd46b83ad1') no-repeat center center/cover; */
+        background: url('deko.jpg') no-repeat center center/cover;
     }
     section#utbildning {
         background: url('https://images.unsplash.com/photo-1526509348523-2217ac3168e3') no-repeat center center/cover;
