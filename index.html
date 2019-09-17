@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="sv-SE">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <title>Umeå dyksällskap</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -15,53 +14,77 @@
             document.getElementById("toggler").checked=false;
             }
     </script>
-    <input type="checkbox" class="toggler" id="toggler">
-    <nav class="navbar">
-        <ul>
-            <li><a href="#hem" onclick="uncheck()">Hem</a></li>
-            <li><a href="#omoss" onclick="uncheck()">Om sällskapet</a></li>
-            <li><a href="#blimedlem" onclick="uncheck()">Bli medlem</a></li>
-            <li><a href="#utbildning" onclick="uncheck()">Utbildning</a></li>
-            <li><a href="#kontakta" onclick="uncheck()">Kontakta oss</a></li>
-        </ul>
-    </nav>
-    <label for="toggler" class="hamburger">
-        <div></div>
-    </label>
+    <div class="menu">
+        <input type="checkbox" class="toggler" id="toggler">
+        <label for="toggler" class="hamburger">
+            <div></div>
+        </label>
+        <nav class="navbar">
+            <ul>
+                <li><a href="#hem" onclick="uncheck()">Hem</a></li>
+                <li><a href="#omoss" onclick="uncheck()">Om sällskapet</a></li>
+                <li><a href="#blimedlem" onclick="uncheck()">Bli medlem</a></li>
+                <li><a href="#utbildning" onclick="uncheck()">Utbildning</a></li>
+                <li><a href="#kontakta" onclick="uncheck()">Kontakta oss</a></li>
+            </ul>
+        </nav>
+    </div>
 </header>
 <body>
     <div class="container">
         <section id="hem">
-            <h1>Umeå dyksällskap</h1>
-            <p class="lead">Sugen på att komma i kontakt med likasinnade, svårt att komma igång med dykningen,
-                nyinflyttad,
-                ingen parkamrat eller kännedom om de lokala dykställena?</p>
+            <h1>Umeå Dyksällskap</h1>
+            <p class="lead">Sugen på att komma i kontakt med likasinnade?<br/>
+                Svårt att komma igång med dykningen?<br/>
+                Nyinflyttad, ingen parkamrat eller kännedom om de lokala dykställena?</p>
         </section>
         <section id="omoss">
-            <h2>Om sällskapet</h2>
-            <p class="lead">Vi är en grupp trevliga människor med ett gemensamt intresse: dykning. Mest håller vi till i
-                vattnen
-                omkring Umeå.</p>
-            <p class="lead">Vi ordnar dykutflykter, dykresor, dykpubar och andra aktiviteter tillsammans.</p>
+            <div class="overlay">
+                <h2>Om sällskapet</h2>
+                <p class="lead">Vi är en grupp trevliga människor med ett gemensamt intresse: dykning. Mest håller vi till i vattnen omkring Umeå.</p>
+                <p class="lead">Vi ordnar dykutflykter, dykresor, dykpubar och andra aktiviteter tillsammans. <br> 
+                    Vi erbjuder även grundutbildning i sportdykning.</p>
+            </div>
         </section>
         <section id="blimedlem">
-            <h2>Bli medlem</h2>
-            <p class="lead">För att bli medlem betalar ni in medlemsavgiftem på föreningens konto, bg 1234-5678, ange
-                namn och
-                email vid betalningen, skicka sedan ett mail till vår<a href="mailto:kassor@umeadyksallskap.se">
-                    kassör</a>.</p>
-            <p class="lead">Medlemsavgiften för 2019 är 200 kronor.</p>
+            <div class="overlay">
+                <h2>Bli medlem</h2>
+                <p class="lead">För att bli medlem betalar ni in medlemsavgiften på föreningens konto, bg 5368-1128 eller swish 123 439 96 48.<br/>
+                    Ange namn och email vid betalningen, skicka sedan ett mail till vår <a href="mailto:kassor@umeadyksallskap.se">kassör</a>.</p>
+                <p class="lead">Medlemsavgiften för 2019 är 200 kronor.</p>
+            </div>
         </section>
         <section id="utbildning">
-            <h2>Utbildning</h2>
-            <h3>Torrdräktskurs eller repetition</h3>
-            <p class="lead">För dig som har dykcert men som behöver repetition eller för dig som inte har dykt i svenska vatten så finns en tvådagars kurs som genomförs med instruktörer från Swedtech Diving där ni bland annat får lära er hur man använder en torrdräkt. Kostnad 2000 kr och då ingår medlemskap i sällskapet.</p>
+            <div class="overlay">
+                <h2>Utbildning</h2>
+                <p class="lead">
+                    Sällskapet erbjuder dig som vill lära dig att dyka en <a href="https://www.swedtechdiving.se/kurser/scuba-diver-basic-skills/" target="_blank">grundkurs</a> i sportdykning,
+                    som efter certifiering ger dig som elev möjlighet att dyka världen över och på ett säkert sätt utforska den fantastiska undervattensvärlden.
+                </p>
+                <p class="middle" >
+                    Efter godkänd certifiering är du redo att dyka med torrdräkt ner till ett maxdjup på 30 meter med luft eller nitrox som andningsgas.
+                </p>
+                <p class="middle" >
+                    Kursen är även lämplig som fortsättningskurs för personer med CMAS &#x2B50; eller PADI OW utbildning.
+                </p>
+                <p class="middle">
+                    Utbildningen genomförs genom utbildningsorganisationen <a href="https://www.swedtechdiving.se" target="_blank">SwedTech Diving</a>.
+                </p>
+                <p class="middle">
+                        Är du intresserad och vill veta mer, skicka ett <a href="mailto:info@umeadyksallskap.se">mail</a> så hör vi av oss.
+                    </p>
+                <h3>Torrdräktskurs eller repetition</h3>
+                <p class="end">För dig som har dykcert men som behöver repetition eller för dig som inte har dykt i svenska vatten så finns en tvådagars kurs 
+                    som genomförs med instruktörer från SwedTech Diving där ni bland annat får lära er hur man använder en torrdräkt.</p>
+                </div>
         </section>
         <section id="kontakta">
-            <h2>Kontakta oss</h2>
-            <p class="lead">Vill ni komma i kontakt med oss kan ni skicka oss ett <a
-                    href="mailto:info@umeadyksallskap.se">mail</a></p>
-            <p class="lead">Vi finns även på <a href="https://www.facebook.com/umeadyksallskap">facebook</a></p>
+            <div class="overlay">
+               <h2>Kontakta oss</h2>
+                <p class="lead">Vill ni komma i kontakt med oss kan ni skicka oss ett <a
+                        href="mailto:info@umeadyksallskap.se">mail</a></p>
+                <p class="lead">Vi finns även på <a href="https://www.facebook.com/umeadyksallskap">Facebook</a></p>
+            </div>
         </section>
     </div>
 </body>
