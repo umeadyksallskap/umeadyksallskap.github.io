@@ -40,6 +40,10 @@ body {
     font-size: 1.5rem;
 }
 
+.middle {
+    font-size: 1.5rem;
+}
+
 .end {
     font-size: 1.5rem;
 }
@@ -192,6 +196,9 @@ section p a {
 /*Denna sektionen sköter utseendet för mobiler*/
 @media screen and (max-width: 649px) {
     .lead {
+        font-size: 1.2rem;
+    }
+    .middle {
         font-size: 1.2rem;
     }
     .end {
