@@ -45,8 +45,19 @@ body {
     padding-top: 0;
 }
 
+.middle-left {
+    font-size: 1.5rem;
+    text-align: left;
+    padding-top: 0;
+}
+
 .end {
     font-size: 1.5rem;
+}
+
+.end-left {
+    font-size: 1.5rem;
+    text-align: left;
 }
 
 .toggler {
@@ -202,7 +213,14 @@ section p a {
     .middle {
         font-size: 1.2rem;
     }
+    .middle-left {
+        font-size: 1.2rem;
+    }
     .end {
+        font-size: 1.2rem;
+        padding-bottom: 3em;
+    }
+    .end-left {
         font-size: 1.2rem;
         padding-bottom: 3em;
     }
