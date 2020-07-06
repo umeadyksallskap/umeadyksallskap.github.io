@@ -33,7 +33,7 @@ body {
     /* CSS Smooth Scroll */
     overflow-y: scroll;
     scroll-behavior: smooth;
-    scroll-snap-type: y mandatory;
+    /* scroll-snap-type: y mandatory; */
 }
 
 .lead {
@@ -236,7 +236,7 @@ section p a {
         padding-top: 3em;
     }
     section h2 {
-        /* margin-top: 2em; */
+        margin-top: 1em;
     }
     section h3{
         margin-top: 1rem;
