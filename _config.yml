@@ -38,7 +38,7 @@ google_fonts: false
 # Add links to the sidebar.
 menu:
   - title: Bli medlem
-    url: medlemskap
+    url: /medlemskap
   # - title: Blog
   #   url: /blog/
   - title: Dykplatser
