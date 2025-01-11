@@ -1,9 +1,6 @@
 ---
 layout: list
 title: Dykplatser
-description: >
-  Dykplatser runt omkring Umeå.
-hide_description: true
 permalink: /dykplatser/
 ---
 
@@ -18,7 +15,8 @@ permalink: /dykplatser/
 #### Andra dykplatser
 
 * Storsandsjön (Bjurholm)
-* [Ratan](ratan){:.heading.flip-title}
+* Ratan
+<!-- * [Ratan](ratan){:.heading.flip-title} -->
 * Bjuröklubb
 
 #### Dykplatser kring Ö-vik
@@ -26,4 +24,5 @@ permalink: /dykplatser/
 * Kläppaviken
 * Käxed
 * Långroudden
-* [Ällöviken](alloviken){:.heading.flip-title}
+* Ällöviken
+<!-- * [Ällöviken](alloviken){:.heading.flip-title} -->

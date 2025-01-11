@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Norrfors kraftstation
-# hide_description: true
 ---
 
 Norrfors kraftstation började byggas 1924 och stod klar i november 1926. Anläggningen stoppades och demonterades i december 1958, då Stornorrfors kraftstation var färdigbyggd. Därefter lades stationen under vatten i samband med dämningsupptagning för Stornorrfors kraftstation. Dammkonstruktionen, turbinhall samt en annan byggnad, finns i dagsläget kvar under vattenytan.
@@ -25,4 +24,4 @@ Det finns fortfarande tak på en av byggnaderna, för att förhindra att man sim
 
 #### Faciliteter
 
-Några bänkar och bord, toalett finns borta vid badplatsen som ligger i ansluting.
+Några bänkar och bord, toalett finns borta vid badplatsen som ligger i ansluting till platsen.

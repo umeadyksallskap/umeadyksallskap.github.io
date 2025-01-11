@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Bli medlem
-hide_description: true
-description: >
-    här finns all information om hur man går till väga för att bli medlem i föreningen.
 permalink: /medlemskap
 ---
 

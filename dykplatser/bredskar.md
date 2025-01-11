@@ -3,7 +3,7 @@ layout: page
 title: Bredskär
 ---
 
-Lite text om dykplatsen, kanske en bild ovan ytan samt en karta med intressanta objekt under vattnet.
+Bredskärssund som platsen egentligen heter, är ett knappt 200 meter brett sund mellan Obbola ön och den ca 800 meter långa ön Bredskär.
 [Hitta hit](https://www.google.com/maps/dir/?api=1&origin=Current+Location&destination=63.661960,20.314241){:target="_blank"}
 
 ![image](/assets/img/dykplatser/bredskar.jpg){:.lead width="725" height="300" loading="lazy"}
@@ -31,7 +31,7 @@ Bottnen består mest av sand och lera, ytlagret är oftast mjukt vilket gör att
 
 #### Faciliteter
 
-Inga nämnvärda.
+Inga.
 
 #### Växt och djurliv
 
