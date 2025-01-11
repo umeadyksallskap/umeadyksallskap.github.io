@@ -1,9 +1,6 @@
 ---
 layout: page
 title: CMAS one star diver
-description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-hide_description: true
 ---
 
 One Star är grundkursen inom [SSDF/CMAS](https://www.ssdf.se/utbildning/sportdykarutbildning/grund--och-fortsattningskurser){:target="_blank"}.

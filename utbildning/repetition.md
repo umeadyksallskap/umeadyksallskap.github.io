@@ -1,10 +1,6 @@
 ---
 layout: page
 title: Uppfräschning
-description: >
-  
-hide_description: true
-sitemap: false
 ---
 
 För dig som har ett certifikat men som behöver repetition, finns en tvådagars kurs där ni bland annat får lära er hur man dyker med torrdräkt.

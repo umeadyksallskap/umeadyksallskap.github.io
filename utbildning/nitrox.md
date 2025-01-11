@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Nirox - syreberikad luft
-description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-hide_description: true
 ---
 
 ![image](/utbildning/ean-x.jpg){:.lead width="160" height="124" loading="lazy"}
@@ -14,7 +11,7 @@ Kursen ska ge kunskap om gasanalys, hantering av utrustning som kommer i kontakt
 
 #### Kursinnehåll
 
-* Teoretisk kunskap om hypoxi, hyperoxi, hypercapni och hur dessa uppkommer,ska behandlas och hur de kan undvikas.
+* Teoretisk kunskap om hypoxi och hyperoxi, hur dessa uppkommer,ska behandlas och hur de kan undvikas.
 * Kunskap att kunna planera och oggboksföra dyk med valfri nitroxblandning från 21% O2 upp till 40% O2.
 * Kunskap att kunna planera och loggboksföra dyk avseende maximalt pO2, MOD, EAD, Best Mix och CNS%.
 * Praktisk kunskap i kalibrering av oxygenanalysator, analys av nitroxblandningar upp till 40% O2, samt ifyllande av fyllningsetikett för nitrox.
