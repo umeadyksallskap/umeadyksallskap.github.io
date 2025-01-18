@@ -35,6 +35,6 @@ Inga.
 
 #### Växt och djurliv
 
-En hel del djur och växtliv efter kanterna med sjögräs, Kantnål, Spigg, Aborre. På mitten där det blir lite djupare mer Simpor, Gärs och Tånglake. Under hösten kan man finna längs kanterna på 2-5m djup massvis med havsnål och har man lite tur även en eller annan gädda.
+En hel del djur och växtliv efter kanterna med sjögräs, Kantnål, Spigg, Aborre. På mitten där det blir lite djupare mer Simpor, Gärs och Tånglake. Under hösten kan man längs kanterna på 2-5m djup hitta massvis med havsnål och har man lite tur även en eller annan gädda.
 
 ![image](/assets/img/dykplatser/gadda.jpg){:.lead width="900" height="675" loading="lazy"}
