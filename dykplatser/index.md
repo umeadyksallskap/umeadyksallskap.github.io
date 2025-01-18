@@ -24,5 +24,4 @@ permalink: /dykplatser/
 * Kläppaviken
 * Käxed
 * Långroudden
-* Ällöviken
-<!-- * [Ällöviken](alloviken){:.heading.flip-title} -->
+* [Ällöviken](alloviken){:.heading.flip-title}

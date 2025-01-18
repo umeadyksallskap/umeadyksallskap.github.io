@@ -3,15 +3,14 @@ layout: page
 title: Ällöviken
 ---
 
-Lite text om dykplatsen, kanske en bild ovan ytan samt en karta med intressanta objekt under vattnet.  
+Ällöviken ligger ca 2km från skagshamn strax norr om Örnsköldsvik. Platsen är väl skyddad från vind och vågor och lämpar sig väl för dykträning av olika slag.
 [Hitta hit](https://www.google.com/maps/dir/?api=1&origin=Current+Location&destination=63.216272,19.031825){:target="_blank"}
 
 ![image](/assets/img/dykplatser/alloviken2.jpg){:.lead width="868" height="488" loading="lazy"}
 
 #### Djup
 
-11-18m.  
-Det går att komma djupare än 18 m men då får man simma långt och länge.
+11-18m, det går att komma djupare än men då får man simma långt och länge.
 
 #### Ström
 
