@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Uppfräschning
+title: Torrdräktskurs
 description: >
   
 hide_description: true
