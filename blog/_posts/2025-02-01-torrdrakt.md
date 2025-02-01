@@ -1,11 +1,11 @@
 ---
 layout: post
 image:
-  path: /assets/img/torrisar.jpg
+  path: /assets/img/blog/torrisar.jpg
   srcset:
-    1920w: /assets/img/torrisar.jpg
-    960w:  /assets/img/torrisar@0,5x.jpg
-    480w:  /assets/img/torrisar@0,25x.png
+    1920w: /assets/img/blog/torrisar.jpg
+    960w:  /assets/img/blog/torrisar@0,5x.jpg
+    480w:  /assets/img/blog/torrisar@0,25x.png
 ---
 
 # Att välja torrdräkt
