@@ -1,11 +1,11 @@
 ---
 layout: post
 image:
-  path: /assets/img/blog/trim0,5x.jpg
+  path: /assets/img/blog/trim@0,5x.jpg
   srcset:
-    1920w: /assets/img/blog/trim0,5x.jpg
-    960w:  /assets/img/blog/trimg@0,25x.jpg
-    480w:  /assets/img/blog/trim@0,125x.png
+    1920w: /assets/img/blog/trim@0,5x.jpg
+    960w:  /assets/img/blog/trim@0,25x.jpg
+    480w:  /assets/img/blog/trim@0,125x.jpg
 ---
 
 # Simmtekniker
