@@ -48,7 +48,7 @@ Att hitta en bra balans kan vara svårt och kräver en viss träning.
 * Ligg stilla med någon form av objekt/referens (tex en sten eller lina) framför fingertopparna ca 5cm bort. Slut ögonen och räkna till fem. När den visuella referensen försvinner så försvinner även den undermedvetna balanskompensationen.
 * Simma nära botten längs med någon form av referens. Simma långsamt och stanna upp helt vid vart tredje simtag. Undvik att röra upp bottensedimentet. Genom denna övning tränas simtekniken och avvägningen.
 
-![ovning](/assets/img/blog/dykare@0,5x.jpg){:.lead width="1920" height="1080" loading="lazy"}
+![ovning](/assets/img/blog/dykare.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
 Ofta kan det vara bra om dykkamraten filmar så blir det lättare att i efterhand analysera övningen.
 {:.figcaption}
