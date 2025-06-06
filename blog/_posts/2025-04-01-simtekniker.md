@@ -37,8 +37,6 @@ Modifierad frogkick är ungefär samma rörelse som vanlig frogkick men mindre, 
 
 Flutterkick är den vanliga simtekniken där fenorna växelvis förs upp och ned men nästan helt raka ben. Tekniken avnänds när det behövs mer kraft att ta sig fram tex. i strömt vatten.
 
-[Video](https://youtu.be/n1hFaN37IZ0?si=C3Hcs4aqBSk-VtC6&t=9)
-
 ### Modifierad flutterkick
 
 En modifierad flutterkick används där det är mycket viktigt att inte rör a upp sediment. Rörelsen sker enbart med knäleden som arbetar i en vinkel från 90 till 45 grader.
