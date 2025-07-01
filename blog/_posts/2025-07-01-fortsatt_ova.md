@@ -48,4 +48,4 @@ DEBrIEF
 * Externt lärande - vad lärde *vi* oss av det här dyket.
 * Fixas - vad behöver *vi* göra bättre nästa gång.
 
-En mer ingående beskrivning av DEBriEF modellen på engelska går att [läsa här](https://www.thehumandiver.com/blog/debriefing).
+En mer ingående beskrivning av DEBrIEF modellen på engelska går att [läsa här](https://www.thehumandiver.com/blog/debriefing).
