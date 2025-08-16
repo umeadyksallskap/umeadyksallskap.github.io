@@ -9,7 +9,7 @@ sitemap: false
 
 För dig som har ett certifikat men som inte har dykt med torrdräkt.
 
-Priset för kursen är 2000 kr och inkluderar medlemskap i Umeå Dyksällskap för det aktuella kalenderåret.
+Priset för kursen är 2500 kr och inkluderar medlemskap i Umeå Dyksällskap för det aktuella kalenderåret.
 
 ### Kursmoment
 
@@ -19,5 +19,5 @@ Priset för kursen är 2000 kr och inkluderar medlemskap i Umeå Dyksällskap f�
 
 #### Förkrav
 
-* Certifierad dykare (CMAS *, PADI OW, NAUI OWD, Swedtech Scubadiver)
+* Certifierad dykare (CMAS *, PADI OW, NAUI OWD)
 * 18 år fylld vid kursstart (15 år med målsmans skriftliga tillåtelse).
