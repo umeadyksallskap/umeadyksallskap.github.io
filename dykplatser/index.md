@@ -18,7 +18,7 @@ permalink: /dykplatser/
 * Storsandsjön (Bjurholm)
 * Ratan
 <!-- * [Ratan](ratan){:.heading.flip-title} -->
-* Bjuröklubb
+* [Bjuröklubb](bjuroklubb){:.heading.flip-title}
 
 #### Dykplatser kring Ö-vik
 
