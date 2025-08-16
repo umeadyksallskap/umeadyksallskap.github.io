@@ -32,6 +32,6 @@ Bottnen mest av sand och lera, ytlagret är oftast mjukt vilket gör att det är
 
 Några bänkar och bord. En grillplats finns strax bortanför kajen.
 
-![image](/assets/img/dykplatser/b_posrlin.jpg){:.lead width="1036" height="777" loading="lazy"}
+![image](/assets/img/dykplatser/b_porslin.jpg){:.lead width="1036" height="777" loading="lazy"}
 Rester från svunna tider går att finna lite var stans runt kajen i Bjuröklubb.
 {:.figcaption}
