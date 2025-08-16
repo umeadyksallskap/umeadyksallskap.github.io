@@ -10,6 +10,7 @@ permalink: /dykplatser/
 * Umeälven
 * 'Kalleankavraken'
 * ['Huset' - Norrfors kraftstation](huset){:.heading.flip-title}
+* Långhalsudden
 * Annie
 
 #### Andra dykplatser
