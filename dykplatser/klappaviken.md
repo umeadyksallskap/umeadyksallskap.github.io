@@ -35,4 +35,4 @@ Primitiva bänkar run grillplatsen.
 
 #### Växt och djurliv
 
-I ålgräset som växet på sandbottnen kan man hitta pungräkor och andra småkryp samt en och annan kantnål. Ute bland klipporna går det att finna både Tånglake och Hornsimpa.
+I ålgräset som växet på sandbottnen kan man hitta pungräkor och andra småkryp samt en och annan havsnål. Ute bland klipporna går det att finna både Tånglake och Hornsimpa.
