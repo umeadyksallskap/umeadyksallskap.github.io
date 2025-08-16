@@ -11,7 +11,7 @@ permalink: /dykplatser/
 * 'Kalleankavraken'
 * ['Huset' - Norrfors kraftstation](huset){:.heading.flip-title}
 * Långhalsudden
-* Annie
+* [Annie](annie){:.heading.flip-title}
 
 #### Andra dykplatser
 
