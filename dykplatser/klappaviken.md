@@ -31,7 +31,7 @@ Sandbotten som övergår till klippor när man passerar ca 15m.
 
 #### Faciliteter
 
-Primitiva bänkar run grillplatsen.
+Primitiva bänkar runt grillplatsen.
 
 #### Växt och djurliv
 
