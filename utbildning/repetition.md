@@ -5,7 +5,7 @@ title: Uppfräschning
 
 För dig som har ett certifikat men som behöver repetition, finns en tvådagars kurs där ni bland annat får lära er hur man dyker med torrdräkt.
 
-Priset för kursen är 3000 kr och inkluderar medlemskap i Umeå Dyksällskap för det aktuella kalenderåret.
+Priset för kursen är 3500 kr och inkluderar medlemskap i Umeå Dyksällskap för det aktuella kalenderåret.
 
 #### Kursinnehåll
 
