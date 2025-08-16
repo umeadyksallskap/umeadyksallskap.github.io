@@ -6,8 +6,7 @@ title: Annie
 Annie upptäcktes i september 2021 under pågående sjömätning utanför Umeå. Hon bygges 1877 i Sunderland och förliste 1891 utanför Umeå efter att hon lastat trä i Skellefteå som skulle skeppas till England.  
 Vraket är väldigt välbevarat och står kölrätt på botten 35 meter under vattenytan.
 
-BILD1![image](/assets/img/dykplatser/sv_annie.jpg){:.lead width="960" height="540" loading="lazy"}
-{:.figcaption} Bild: Sjöfartsverket
+BILD1![image](/assets/img/dykplatser/sv_annie.jpg){:.lead width="960" height="540" loading="lazy"}{:.figcaption} Bild: Sjöfartsverket
 
 #### Djup
 
