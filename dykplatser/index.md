@@ -21,7 +21,7 @@ permalink: /dykplatser/
 
 #### Dykplatser kring Ö-vik
 
-* Kläppaviken
+* [Kläppaviken](klappaviken){:.heading.flip-title}
 * Käxed
 * Långroudden
 * [Ällöviken](alloviken){:.heading.flip-title}
