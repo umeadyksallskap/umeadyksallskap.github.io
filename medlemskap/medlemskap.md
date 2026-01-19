@@ -14,22 +14,6 @@ permalink: /medlemskap
 * Du kan hyra utrustning av sällskapet.
 * Du får självklart följa med på klubbens utfärder och resor.
 
-För att bli medlem behöver du fylla in [detta formulär](https://docs.google.com/forms/d/e/1FAIpQLSd5k84t6BEziO8_tiQ88R9CSd-9PxU7jscayibC71K9oTFQKg/viewform){:target="_blank"}
+För att bli medlem behöver du fylla in detta formulär.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd5k84t6BEziO8_tiQ88R9CSd-9PxU7jscayibC71K9oTFQKg/viewform?embedded=true" width="640" height="2518" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-#### Aktuella medlemsavgifter
-
-Sportdykande senior (1200 kr/år):
-Medlemskap för dig som är 18 år eller äldre.
-
-Sportdykande ungdom (600 kr/år):
-Medlemskap för dig som är under 18 år.
-
-Familjemedlemskap (1800 kr/år):
-Två vuxna med barn under 18 år.
-
-Extra medlemskap (900 kr/år):
-Sportdykande senior som är fullt betalande medlen i annan SSDF ansluten förening
-
-Klubbsupporter är till för dig som kanske inte dyker aktivt men ändå vill stödja vår verksamhet och hälsa på någon gång vid våra utflykter. (250 kr/år )
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd5k84t6BEziO8_tiQ88R9CSd-9PxU7jscayibC71K9oTFQKg/viewform?embedded=true" width="640" height="2208" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
