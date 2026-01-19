@@ -15,8 +15,4 @@ permalink: /medlemskap
 * Du får självklart följa med på klubbens utfärder och resor.
 
 För att bli medlem behöver du fylla in detta formulär.
-<div style="filter: invert(1);">
-  <div style="filter: hue-rotate(189.73deg) saturate(18.61%) brightness(96.86%)">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd5k84t6BEziO8_tiQ88R9CSd-9PxU7jscayibC71K9oTFQKg/viewform?embedded=true" width="640" height="2248" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</div>
-</div>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd5k84t6BEziO8_tiQ88R9CSd-9PxU7jscayibC71K9oTFQKg/viewform?embedded=true" width="640" height="2248" frameborder="0" marginheight="0" marginwidth="0" style="background: #CCCCCC">Loading…</iframe>
