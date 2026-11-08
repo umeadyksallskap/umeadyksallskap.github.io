@@ -14,7 +14,7 @@ Klubbens instruktörer har möjlighet att utbilda dig från nybörjare hela väg
 
 * [CMAS *](one-star){:.heading.flip-title} --- One Star är nybörjarkurs inom [SSDF/CMAS](https://www.ssdf.se/utbildning/sportdykarutbildning/grund--och-fortsattningskurser){:target="_blank"}
 * [NAUI Open Water Scuba Diver](open-water){:.heading.flip-title} --- [NAUIs](https://naui-scandinavia.org/utbildningar/borja-dyka/open-water-scuba-diver/){:target="_blank"} nybörjarkurs i sportdykning
-* [Scuba Diver Basic Skills](scubadiver){:.heading.flip-title} --- [SwedTech Divings](https://www.swedtechdiving.se/kurser/scuba-diver-basic-skills/){:target="_blank"} grundkurs i dykning
+* [Scuba Diver Basic Skills](scubadiver){:.heading.flip-title} --- [SwedTech Divings](https://www.swedtechdiving.se/courses/scuba-diver-basic-skills/){:target="_blank"} grundkurs i dykning
 
 #### Kurser för dig som redan är certifierad dykare
 
